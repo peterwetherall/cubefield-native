@@ -1,5 +1,5 @@
 # cubefield-native
-A re-make of the classic browser game Cubefield, using [Three.JS](https://threejs.org/).
+A re-make of the classic browser game [Cubefield](https://www.cubefield.org.uk/), using [Three.JS](https://threejs.org/).
 
 **Demo:** [https://peterwetherall.github.io/cubefield-native/](https://peterwetherall.github.io/cubefield-native/)
 
